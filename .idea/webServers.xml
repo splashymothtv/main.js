@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0c6fdb3a-3986-4367-9213-c18b7c20cdc8" name="host" url="https://purring-ballistic-tarantula.glitch.me">
+        <fileTransfer rootFolder="/webdav" accessType="WEBDAV" host="https://purring-ballistic-tarantula.glitch.me" port="6180">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
